@@ -274,7 +274,13 @@
           "collection": {
             "label": "คอลเลกชัน",
             "info": "แสดงผลเมื่อตะกร้าสินค้าแบบเลื่อนด้านข้างว่างเปล่า"
-          }
+          },
+          "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        }
         }
       }
     },

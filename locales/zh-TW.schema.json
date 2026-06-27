@@ -274,6 +274,12 @@
           "collection": {
             "label": "商品系列",
             "info": "當購物車導覽匣無商品時顯示"
+          },
+          "free_shipping_progress_bar_text": {
+            "label": "Free shipping progress bar text",
+          },
+          "minimum_free_shipping_amount": {
+            "label": "Free shipping amount",
           }
         }
       }

@@ -336,6 +336,12 @@
             "label": "Collection",
             "info": "Shown when cart drawer is empty"
           }
+        },
+        "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text",
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
         }
       }
     },

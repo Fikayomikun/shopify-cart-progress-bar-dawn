@@ -260,7 +260,13 @@
           "collection": {
             "label": "Kollektion",
             "info": "Wird angezeigt, wenn der Warenkorbeinschub leer ist"
-          }
+          },
+          "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+        "label": "Free shipping amount",
+        }
         }
       }
     },

@@ -260,7 +260,13 @@
           "collection": {
             "label": "컬렉션",
             "info": "카트 서랍이 비어 있는 경우 표시됩니다"
-          }
+          },
+            "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        }
         }
       }
     },

@@ -260,7 +260,13 @@
           "collection": {
             "label": "Samling",
             "info": "Synlig når handlekurvskuffen er tom"
-          }
+          },
+            "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        }
         }
       }
     },

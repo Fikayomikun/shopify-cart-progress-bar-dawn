@@ -274,7 +274,13 @@
           "collection": {
             "label": "コレクション",
             "info": "カートドロワーが空のときに表示されます"
-          }
+          },
+            "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        }
         }
       }
     },
