@@ -255,18 +255,18 @@
         "show_cart_note": {
           "label": "Nota do carrinho"
         },
+         "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        },
         "cart_drawer": {
           "header": "Painel deslizante do carrinho",
           "collection": {
             "label": "Coleção",
             "info": "Visível quando o painel deslizante do carrinho está vazio"
-          },
-            "free_shipping_progress_bar_text": {
-          "label": "Free shipping progress bar text", 
-        },
-        "minimum_free_shipping_amount": {
-          "label": "Free shipping amount",
-        }
+          }
         }
       }
     },

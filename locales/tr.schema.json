@@ -255,18 +255,18 @@
         "show_cart_note": {
           "label": "Sepet notu"
         },
+         "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        },
         "cart_drawer": {
           "header": "Sepet çekmecesi",
           "collection": {
             "label": "Koleksiyon",
             "info": "Sepet çekmecesi boş olduğunda gösterilir"
-          },
-            "free_shipping_progress_bar_text": {
-          "label": "Free shipping progress bar text", 
-        },
-        "minimum_free_shipping_amount": {
-          "label": "Free shipping amount",
-        }
+          }
         }
       }
     },

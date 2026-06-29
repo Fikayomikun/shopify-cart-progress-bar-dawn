@@ -255,18 +255,18 @@
         "show_cart_note": {
           "label": "카트 참고 사항"
         },
+          "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        },
         "cart_drawer": {
           "header": "카트 서랍",
           "collection": {
             "label": "컬렉션",
             "info": "카트 서랍이 비어 있는 경우 표시됩니다"
-          },
-            "free_shipping_progress_bar_text": {
-          "label": "Free shipping progress bar text", 
-        },
-        "minimum_free_shipping_amount": {
-          "label": "Free shipping amount",
-        }
+          }
         }
       }
     },

@@ -269,17 +269,17 @@
         "show_cart_note": {
           "label": "購物車備註"
         },
-        "cart_drawer": {
-          "header": "購物車導覽匣",
-          "collection": {
-            "label": "商品系列",
-            "info": "當購物車導覽匣無商品時顯示"
-          },
           "free_shipping_progress_bar_text": {
             "label": "Free shipping progress bar text",
           },
           "minimum_free_shipping_amount": {
             "label": "Free shipping amount",
+          },
+        "cart_drawer": {
+          "header": "購物車導覽匣",
+          "collection": {
+            "label": "商品系列",
+            "info": "當購物車導覽匣無商品時顯示"
           }
         }
       }

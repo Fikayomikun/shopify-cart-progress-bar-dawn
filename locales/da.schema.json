@@ -255,17 +255,17 @@
         "show_cart_note": {
           "label": "Bemærkning til indkøbskurv"
         },
+        "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text",
+          },
+          "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+          },
         "cart_drawer": {
           "header": "Indkøbskurvskuffe",
           "collection": {
             "label": "Kollektion",
             "info": "Vises, når indkøbskurvskuffen er tom"
-          },
-          "free_shipping_progress_bar_text": {
-          "label": "Free shipping progress bar text",
-          },
-          "minimum_free_shipping_amount": {
-          "label": "Free shipping amount",
           }
         }
       }

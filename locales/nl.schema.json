@@ -255,18 +255,18 @@
         "show_cart_note": {
           "label": "Notitie voor winkelwagen"
         },
+          "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        },
         "cart_drawer": {
           "header": "Winkelwagenoptie",
           "collection": {
             "label": "Collectie",
             "info": "Weergegeven als winkelwagenoptie leeg is"
-          },
-            "free_shipping_progress_bar_text": {
-          "label": "Free shipping progress bar text", 
-        },
-        "minimum_free_shipping_amount": {
-          "label": "Free shipping amount",
-        }
+          }
         }
       }
     },

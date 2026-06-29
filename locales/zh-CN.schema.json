@@ -255,18 +255,18 @@
         "show_cart_note": {
           "label": "购物车备注"
         },
+         "free_shipping_progress_bar_text": {
+          "label": "Free shipping progress bar text", 
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Free shipping amount",
+        },
         "cart_drawer": {
           "header": "购物车抽屉",
           "collection": {
             "label": "产品系列",
             "info": "在购物车抽屉为空时显示﻿"
-          },
-        "free_shipping_progress_bar_text": {
-          "label": "Free shipping progress bar text", 
-        },
-        "minimum_free_shipping_amount": {
-          "label": "Free shipping amount",
-        }
+          }
         }
       }
     },

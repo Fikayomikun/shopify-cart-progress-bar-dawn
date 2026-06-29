@@ -269,18 +269,18 @@
         "show_cart_note": {
           "label": "Tilauskommentti"
         },
+        "free_shipping_progress_bar_text": {
+          "label": "Ilmainen toimitus -edistymispalkin teksti"
+        },
+        "minimum_free_shipping_amount": {
+          "label": "Ilmaisen toimituksen vähimmäismäärä"
+        },
         "cart_drawer": {
           "header": "Veto-ostoskori",
           "collection": {
             "label": "Kokoelma",
             "info": "Näytetään, kun veto-ostoskori on tyhjä"
-          },
-            "free_shipping_progress_bar_text": {
-          "label": "Free shipping progress bar text", 
-        },
-        "minimum_free_shipping_amount": {
-          "label": "Free shipping amount",
-        }
+          }
         }
       }
     },

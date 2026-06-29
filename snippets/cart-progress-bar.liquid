@@ -11,7 +11,7 @@
 <div class="cart-progress-bar">
   <div class="cart-progress{%if progress_percentage == 100 %} is-complete{% endif %}"></div>
   <div class="free-shipping-icon{%if progress_percentage == 100 %} is-complete{% endif %}">
-    <span>🚚</span>
+    {% render 'shipping-progress-icon' %}
   </div>
 
 </div>
