@@ -10,22 +10,30 @@
 {% endfor %}
 
 {% if has_subscription %}
-  <div class="subscription-free-shipping-banner">
+  <div class="cart-progress-bar">
+    <div class="cart-progress is-complete" style="width: 100%;"></div>
+
     <div class="free-shipping-icon is-complete">
       {% render 'shipping-progress-icon' %}
     </div>
-
-    <p class="progress-message is-complete">
-      {{ settings.subscription_free_shipping_text }}
-    </p>
   </div>
 
+  <p class="progress-message is-complete">
+    {{ settings.subscription_free_shipping_text }}
+  </p>
+
   <style>
-    .subscription-free-shipping-banner {
-      display: flex;
-      align-items: center;
-      gap: 1.2rem;
-      margin: 1.6rem 0;
+    .cart-progress-bar {
+      background-color: {{ settings.background_bar_color }};
+    }
+
+    .cart-progress.is-complete,
+    .free-shipping-icon.is-complete {
+      background-color: {{ settings.completed_bar_color }};
+    }
+
+    .progress-message.is-complete {
+      color: {{ settings.completed_bar_color }};
     }
   </style>
 {% endif %}
