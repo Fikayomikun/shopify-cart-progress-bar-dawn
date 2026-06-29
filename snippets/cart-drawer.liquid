@@ -74,14 +74,14 @@
         </button>
       </div>
 
-
-      {% comment %} Custom code added below {% endcomment %}
-      {% if localization.country.iso_code == 'DE' %}
-        {% render 'cart-progress-bar' %}
-      {% elsif localization.country.iso_code == 'GB' %}
-        {% render 'cart-subscription-progress-bar-uk' %}
-      {% endif %}
-      {% comment %} Custom code added above {% endcomment %}
+      {% render 'cart-progress-bar' %}
+      {% comment %} Custom code added below
+                      {% if localization.country.iso_code == 'DE' %}
+          
+                      {% elsif localization.country.iso_code == 'GB' %}
+                        {% render 'cart-subscription-progress-bar-uk' %}
+                      {% endif %}
+             Custom code added above {% endcomment %}
 
 
       <cart-drawer-items
