@@ -1447,7 +1447,7 @@
        {
         "type": "text",
         "id": "subscription_free_shipping_text",
-        "label": "Subscription free shipping message",
+        "label": "UK Shop Subscription free shipping text",
         "default": "Free shipping applied to your subscription order"
       },
         {
