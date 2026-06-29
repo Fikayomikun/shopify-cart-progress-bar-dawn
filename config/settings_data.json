@@ -125,6 +125,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "subscription_free_shipping_text": "Free shipping on your subscription order",
     "cart_color_scheme": "scheme-1",
     "background_bar_color": "#F0F4F6",
     "progress_message_color": "#48494B",
