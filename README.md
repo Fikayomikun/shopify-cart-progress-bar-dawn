@@ -13,7 +13,7 @@ For the UK cart drawer, subscription orders get a dedicated variant that display
 | File | Purpose |
 |------|---------|
 | `snippets/cart-progress-bar.liquid` | Main progress bar component. Calculates fill percentage in Liquid and applies completed state when threshold is met. |
-| `snippets/cart-subscription-progress-bar-uk.liquid` | UK subscription variant. Detects subscription items and renders the bar as complete with a dedicated message. |
+| `snippets/cart-subscription-progress-bar-uk.liquid` | The UK subscription variant detects subscription items using `sellingPlanAllocation` on cart line items — the same signal used by the Delivery Customization Function to apply free shipping at checkout. |
 | `snippets/shipping-progress-icon.liquid` | Reusable SVG truck icon inside the progress bar. |
 | `assets/cart-progress-bar.css` | Styling for the bar track, progress fill, and icon wrapper. Works alongside inline styles in the snippets. |
 | `config/settings_schema.json` | Theme schema exposing threshold, colour, and message settings in the Shopify theme editor. |
