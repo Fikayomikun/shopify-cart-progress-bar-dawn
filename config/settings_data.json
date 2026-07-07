@@ -132,7 +132,7 @@
     "background_bar_color": "#F0F4F6",
     "progress_message_color": "#48494B",
     "progress_bar_color": "#002F6C",
-    "completed_bar_color": "#4A9500",
+    "completed_bar_color": "#950000",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
